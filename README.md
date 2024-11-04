@@ -18,4 +18,4 @@ Enhancing navigation safety for MASS: A Graph-based learning model for motion pe
 ![Figure05](https://github.com/KaysenWB/Drawing-Showcase/blob/main/Figure05.jpg?raw=true)
 # Figure06
 Enhancing navigation safety for MASS: A Graph-based learning model for motion perception in multi-ship encounters.
-![Figure05](https://github.com/KaysenWB/Drawing-Showcase/blob/main/Figure05.jpg?raw=true)
+![Figure06](https://github.com/KaysenWB/Drawing-Showcase/blob/main/Figure06.jepg?raw=true)
