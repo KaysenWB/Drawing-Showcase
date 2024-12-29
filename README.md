@@ -14,8 +14,11 @@ OE: Graph-driven Multi-vessel Long-term Trajectories Prediction for Route Planni
 OE: Graph-driven Multi-vessel Long-term Trajectories Prediction for Route Planning under Complex Waters.
 ![Figure04](https://github.com/KaysenWB/Drawing-Showcase/blob/main/Figure04.jpg?raw=true)
 # Figure05
-SS: Enhancing navigation safety for MASS: A Graph-based learning model for motion perception in multi-ship encounters.
-![Figure05](https://github.com/KaysenWB/Drawing-Showcase/blob/main/Figure05.jpg?raw=true)
+RESS: Enhancing Risk Perception by Integrating Ship Interactions in Multi-Ship Encounters: A Graph-Based Learning Method.
+![Figure05](https://github.com/KaysenWB/Drawing-Showcase/blob/main/Ress_Figure03.jpg?raw=true)
 # Figure06
-SS: Enhancing navigation safety for MASS: A Graph-based learning model for motion perception in multi-ship encounters.
-![Figure06](https://github.com/KaysenWB/Drawing-Showcase/blob/main/Figure06.jpeg?raw=true)
+RESS: Enhancing Risk Perception by Integrating Ship Interactions in Multi-Ship Encounters: A Graph-Based Learning Method.
+![Figure06](https://github.com/KaysenWB/Drawing-Showcase/blob/main/Ress_Figure04.jpg?raw=true)
+# Figure07
+RESS: Enhancing Risk Perception by Integrating Ship Interactions in Multi-Ship Encounters: A Graph-Based Learning Method.
+![Figure06](https://github.com/KaysenWB/Drawing-Showcase/blob/main/Ress_Figure08.jpeg?raw=true)
