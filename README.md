@@ -3,6 +3,7 @@
 # Figure01
 PartE: Interpretable Generative Modeling of Vessel Trajectories for Multi-model Prediction and Risk Analysis in Restricted Waters.
 ![Figure01](https://github.com/KaysenWB/Drawing-Showcase/blob/main/Figure01.jpg?raw=true)
+
 # Figure02
 OE: Graph-driven Multi-vessel Long-term Trajectories Prediction for Route Planning under Complex Waters.
 ![Figure02](https://github.com/KaysenWB/Drawing-Showcase/blob/main/Figure02.jpg?raw=true)
