@@ -1,5 +1,4 @@
 # Drawing-Showcase
-Demonstrate the author's academic graphic abilities for PhD application.
 
 # Figure01
 PartE: Interpretable Generative Modeling of Vessel Trajectories for Multi-model Prediction and Risk Analysis in Restricted Waters.
@@ -17,8 +16,5 @@ OE: Graph-driven Multi-vessel Long-term Trajectories Prediction for Route Planni
 RESS: Enhancing Risk Perception by Integrating Ship Interactions in Multi-Ship Encounters: A Graph-Based Learning Method.
 ![Figure05](https://github.com/KaysenWB/Drawing-Showcase/blob/main/Ress_Figure03.jpg?raw=true)
 # Figure06
-RESS: Enhancing Risk Perception by Integrating Ship Interactions in Multi-Ship Encounters: A Graph-Based Learning Method.
-![Figure06](https://github.com/KaysenWB/Drawing-Showcase/blob/main/Ress_Figure04.jpg?raw=true)
-# Figure07
 RESS: Enhancing Risk Perception by Integrating Ship Interactions in Multi-Ship Encounters: A Graph-Based Learning Method.
 ![Figure06](https://github.com/KaysenWB/Drawing-Showcase/blob/main/Ress_Figure08.jpeg?raw=true)
